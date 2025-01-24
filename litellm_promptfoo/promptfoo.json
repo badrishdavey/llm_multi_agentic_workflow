@@ -1,0 +1,16 @@
+{
+  "providers": [
+    {
+      "id": "anthropic",
+      "model": "claude-3-sonnet-20240229"
+    },
+    {
+      "id": "openai",
+      "model": "gpt-4"
+    }
+  ],
+  "prompts": [
+    "You are a customer service representative. Help resolve the following issue:\n                Customer message: {{customer_message}}\n                \n                Respond professionally and empathetically.",
+    "Create a compelling product description for:\n                Product: {{product_name}}\n                Features: {{features}}\n                Target audience: {{audience}}"
+  ]
+}

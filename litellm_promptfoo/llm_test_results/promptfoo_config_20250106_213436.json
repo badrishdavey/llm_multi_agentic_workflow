@@ -1,0 +1,7 @@
+{
+  "providers": [
+    "openai:chat:gpt-4o-mini",
+    "anthropic:messages:claude-3-5-sonnet-20241022"
+  ],
+  "prompts": "Role: You are a customer service representative.\nTask: Help resolve the following customer issue:\nCustomer message: {{customer_message}}\n\nInstructions:\n- Respond professionally and empathetically\n- Address the specific issue mentioned\n- Provide clear next steps\n- Include relevant tracking or order information"
+}

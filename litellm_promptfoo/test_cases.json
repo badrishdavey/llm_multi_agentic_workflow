@@ -1,0 +1,37 @@
+{
+  "tests": [
+    {
+      "vars": {
+        "customer_message": "I haven't received my order that was supposed to arrive yesterday."
+      },
+      "assert": {
+        "contains": [
+          "apologize",
+          "track",
+          "help"
+        ],
+        "excludes": [
+          "sorry for the confusion",
+          "let me know if"
+        ],
+        "max_tokens": 200
+      }
+    },
+    {
+      "vars": {
+        "product_name": "EcoFresh Water Bottle",
+        "features": "Vacuum insulated, 24-hour temperature control, sustainable materials",
+        "audience": "Outdoor enthusiasts and eco-conscious consumers"
+      },
+      "assert": {
+        "contains": [
+          "sustainable",
+          "temperature",
+          "outdoor"
+        ],
+        "tone": "professional",
+        "max_tokens": 150
+      }
+    }
+  ]
+}

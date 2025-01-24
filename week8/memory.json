@@ -1,0 +1,38 @@
+[
+  {
+    "deal": {
+      "product_description": "The Samsung Galaxy Watch Ultra is a premium 47mm LTE Titanium smartwatch designed for both style and functionality. It features a circular display made with durable materials suitable for outdoor activities, providing GPS tracking, health monitoring, and custom apps for various needs. The robust design integrates a range of smart features including notifications, music control, and heart rate tracking, making it an ideal companion for fitness enthusiasts and tech-savvy users alike.",
+      "price": 350.0,
+      "url": "https://www.dealnews.com/Samsung-Galaxy-Watch-Ultra-47-mm-LTE-Titanium-Smartwatch-up-to-350-off-w-Trade-in-free-shipping/21663266.html?iref=rss-c142"
+    },
+    "estimate": 773.8138460593241,
+    "discount": 423.8138460593241
+  },
+  {
+    "deal": {
+      "product_description": "The Refurbished Unlocked Apple iPhone 14 Pro Max offers an impressive 256GB storage and a huge display, perfect for both media consumption and productivity. Enjoy advanced camera technology for stunning photos. This model is designed to provide a seamless user experience with 5G capabilities for faster downloads and streaming. Refurbished to high standards, it comes in various colors and can support all the latest apps from the App Store, accommodating any Apple enthusiast's needs.",
+      "price": 705.0,
+      "url": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-14-Pro-Max-256-GB-Smartphone/462808.html?iref=rss-c142"
+    },
+    "estimate": 930.8824204895075,
+    "discount": 225.88242048950747
+  },
+  {
+    "deal": {
+      "product_description": "The Eco-Worthy 12V 280Ah LiFePO4 Lithium Battery is an efficient and durable energy storage solution, boasting over 6,000 charge cycles, making it ideal for renewable energy systems and backup power applications. This battery is equipped with a built-in Battery Management System (BMS) that ensures safety and reliability during use. With a lightweight design compared to traditional lead-acid batteries, it offers high energy density and performance, perfect for RVs, marine use, and off-grid applications.",
+      "price": 357.0,
+      "url": "https://www.dealnews.com/Eco-Worthy-12-V-280-Ah-Li-Fe-PO4-Lithium-Battery-for-357-free-shipping/21711314.html?iref=rss-c142"
+    },
+    "estimate": 757.1879752973668,
+    "discount": 400.18797529736685
+  },
+  {
+    "deal": {
+      "product_description": "The Dell Inspiron 15 Laptop is equipped with the latest 12th generation Intel Core i7-1255U processor, delivering significant performance for both productivity and entertainment tasks. It features a vibrant 15.6-inch 1080p display and comes with 16GB RAM, ensuring smooth multitasking capabilities. The 1TB SSD offers substantial storage space for all your applications, games, and media files, providing quick access and better performance overall. Ideal for students and professionals alike, this laptop combines power with efficiency.",
+      "price": 500.0,
+      "url": "https://www.dealnews.com/products/Dell/Dell-Inspiron-15-12-th-Gen-i7-15-6-Laptop-w-16-GB-RAM-and-1-TB-SSD/475273.html?iref=rss-c39"
+    },
+    "estimate": 924.9687936571991,
+    "discount": 424.96879365719906
+  }
+]

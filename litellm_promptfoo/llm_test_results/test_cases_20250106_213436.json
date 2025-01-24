@@ -1,0 +1,13 @@
+{
+  "tests": [
+    {
+      "description": "Basic Customer Service Test",
+      "vars": {
+        "customer_message": "My order #12345 hasn't arrived yet."
+      },
+      "assert": {
+        "contains": "order"
+      }
+    }
+  ]
+}
